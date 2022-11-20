@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('../../asset/resource/font/钟齐志莽行书.ttf') format('woff2');
+}
+.myFont {
+  color: gray;
+  font-family: 'MyFont';
+}
